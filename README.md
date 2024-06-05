@@ -13,6 +13,10 @@
 ## Background
 
 ## Files
+This repository contains four files and a sub-folder:
+* `athletic_sales_analysis.ipynb` - the file that contains the solution for the challenge.
+* `athletic_sales_analysis.ipynb.ipynb` - the original starter file for the challenge. This is for reference only.
+* In the Resources directory the files `athletic_sales_2020.csv` and `athletic_sales_2021.csv` contain the data file for the project provided as part of the challenge.
 
 ## Technical requirements
 The code in `athletic_sales_analysis.ipynb.` This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.

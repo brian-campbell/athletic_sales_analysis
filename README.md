@@ -9,7 +9,7 @@
 *  [**Requirements and Solution**](#requirements-and-solution)
 
 ## Overview
-
+This repository contains the source code for the OSU AI Bootcamp athletic sales analysis for Module 5. This challenge uses a dataset for athletic sales over two years. The goal is to use continue to use the pandas framework to explore and analyze data.
 
 ## Background
 The background on this challenge, provided by the course instructors is as follows: 

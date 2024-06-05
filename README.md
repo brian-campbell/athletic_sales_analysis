@@ -15,9 +15,9 @@
 ## Files
 
 ## Technical requirements
-The code in `.` This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.
+The code in `athletic_sales_analysis.ipynb.` This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.
 
-The file `.ipynb` is the original starter file provided for the challenge. It is part of the project for reference only. The directory Resources contains the data file client_dataset.csv provided for the challenge.
+The file `athletic_sales_analysis.ipynb.ipynb` is the original starter file provided for the challenge. It is part of the project for reference only. The directory Resources contains the data file client_dataset.csv provided for the challenge.
 
 ## Run the code
 Assuming a python interpreter is installed and is at least version 3.10 or greater and they jupyter notebook runtime, the program can be executed by calling the jupyter notebook runtime in the directory: E.g., $> jupyter notebook. Once the notebook is running you run each code fragment individually or click on the "Run All" button.

@@ -78,5 +78,5 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Determine the Week with the Most Women's Athletic Footwear Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| The `resample` function is used on the pivot table, the data is placed into weekly bins, and the total sales for each week is calculated. | | |
-| The results are sorted in descending order to show the weeks that generated the most women's athletic footwear sales. | | |
+| The `resample` function is used on the pivot table, the data is placed into weekly bins, and the total sales for each week is calculated. | | ![Screenshot 2024-06-10 at 6 45 40 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/0a54484f-0c83-43b9-b043-98bc8472fd9e) |
+| The results are sorted in descending order to show the weeks that generated the most women's athletic footwear sales. | | Same as/See above. |

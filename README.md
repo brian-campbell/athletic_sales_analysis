@@ -42,7 +42,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "region", "state", and "city" columns. | ![Screenshot 2024-06-17 at 10 55 41 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/fc07a685-744d-4ccf-8946-16427f56b4d2) ![Screenshot 2024-06-17 at 10 55 49 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/a02aa665-d5fd-49dc-899a-43ef2094a7fa) | ![Screenshot 2024-06-17 at 10 52 08 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/32fe52a4-a20c-46da-8d21-df2a661e2dea) ![Screenshot 2024-06-17 at 10 52 40 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/80566a73-d5ab-4a1d-a5c8-4588ccac9545) |
-| The aggregated column has been renamed to reflect the aggregation of the data in the column. | | |
+| The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
 | The results are sorted in descending order to show the top five regions, including the state and city that sold the most products. | | |
 
 ### Determine which Region had the Most Sales
@@ -71,12 +71,12 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | A pivot table is created that has the "invoice_date" column as the index and the "total_sales" column assigned to the `values` parameter. | ![Screenshot 2024-06-17 at 10 50 11 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/1a38f5ae-8a95-4b34-baa1-5b52fe748d48) | ![Screenshot 2024-06-10 at 6 47 45 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/1db4a388-ab33-4a58-af68-9f9b46d87a87) |
-| The aggregated column has been renamed to reflect the aggregation of the data in the column. | | Same as/See above |
+| The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above |
 | The `resample` function is used on the pivot table, the data is placed into daily bins, and the total sales for each day is calculated. | ![Screenshot 2024-06-17 at 10 49 09 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/cfd72d3e-4419-4032-927c-e6f83017a9e1) | ![Screenshot 2024-06-10 at 6 46 35 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/c7d6dec7-d268-491f-8245-6cb5e0515fa9) |
-| The results are sorted in descending order to show the days that generated the most women's athletic footwear sales. | | Same as/See above |
+| The results are sorted in descending order to show the days that generated the most women's athletic footwear sales. | Same as/See above. | Same as/See above |
 
 ### Determine the Week with the Most Women's Athletic Footwear Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | The `resample` function is used on the pivot table, the data is placed into weekly bins, and the total sales for each week is calculated. | ![Screenshot 2024-06-17 at 10 47 57 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/dde87871-1fbd-4092-ae00-8eeb0690e33b) | ![Screenshot 2024-06-10 at 6 45 40 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/0a54484f-0c83-43b9-b043-98bc8472fd9e) |
-| The results are sorted in descending order to show the weeks that generated the most women's athletic footwear sales. | | Same as/See above. |
+| The results are sorted in descending order to show the weeks that generated the most women's athletic footwear sales. | Same as/See above. | Same as/See above. |

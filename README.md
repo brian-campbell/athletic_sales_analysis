@@ -70,7 +70,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Determine the Day with the Most Women's Athletic Footwear Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| A pivot table is created that has the "invoice_date" column as the index and the "total_sales" column assigned to the `values` parameter. | | ![Screenshot 2024-06-10 at 6 47 45 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/1db4a388-ab33-4a58-af68-9f9b46d87a87) |
+| A pivot table is created that has the "invoice_date" column as the index and the "total_sales" column assigned to the `values` parameter. | ![Screenshot 2024-06-17 at 10 50 11 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/1a38f5ae-8a95-4b34-baa1-5b52fe748d48) | ![Screenshot 2024-06-10 at 6 47 45 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/1db4a388-ab33-4a58-af68-9f9b46d87a87) |
 | The aggregated column has been renamed to reflect the aggregation of the data in the column. | | Same as/See above |
 | The `resample` function is used on the pivot table, the data is placed into daily bins, and the total sales for each day is calculated. | ![Screenshot 2024-06-17 at 10 49 09 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/cfd72d3e-4419-4032-927c-e6f83017a9e1) | ![Screenshot 2024-06-10 at 6 46 35 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/c7d6dec7-d268-491f-8245-6cb5e0515fa9) |
 | The results are sorted in descending order to show the days that generated the most women's athletic footwear sales. | | Same as/See above |

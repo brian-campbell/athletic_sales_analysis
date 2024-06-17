@@ -55,7 +55,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Determine which Retailer had the Most Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | | ![Screenshot 2024-06-17 at 11 04 46 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/2e22e0ed-722a-4e5b-90ed-b2eb4799d13d) ![Screenshot 2024-06-17 at 11 04 53 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/18710607-eb2d-4d3c-8e0e-647776d2ad8c) |
+| A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | ![Screenshot 2024-06-17 at 11 14 15 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/639a0b3a-bec3-4a97-a72b-1a0ebb8c4919) ![Screenshot 2024-06-17 at 11 14 24 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/5b0a3a52-a984-470b-81e0-24ff8656715e) | ![Screenshot 2024-06-17 at 11 04 46 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/2e22e0ed-722a-4e5b-90ed-b2eb4799d13d) ![Screenshot 2024-06-17 at 11 04 53 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/18710607-eb2d-4d3c-8e0e-647776d2ad8c) |
 | The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
 | The results are sorted in descending order to show the top five retailers along with their region, state, and city that generated the most sales. | Same as/See above. | Same as/See above. |
 

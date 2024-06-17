@@ -48,7 +48,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Determine which Region had the Most Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "region", "state", and "city" columns. | | ![Screenshot 2024-06-17 at 11 03 06 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/6a7bbf3e-975e-4ead-80a6-20e8d79dde91) ![Screenshot 2024-06-17 at 11 03 13 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/883958ee-4e14-4fc7-8931-4607f1353f79) |
+| A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "region", "state", and "city" columns. | ![Screenshot 2024-06-17 at 11 12 44 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/bb2b5345-cfa1-4f5a-8f24-0248c06cbde9) ![Screenshot 2024-06-17 at 11 12 53 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/78785765-2895-4520-b616-cd2d47ac7f97) | ![Screenshot 2024-06-17 at 11 03 06 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/6a7bbf3e-975e-4ead-80a6-20e8d79dde91) ![Screenshot 2024-06-17 at 11 03 13 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/883958ee-4e14-4fc7-8931-4607f1353f79) |
 | The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
 | The results are sorted in descending order to show the top five regions, including the state and city that generated the most sales. | Same as/See above. | Same as/See above. |
 

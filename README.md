@@ -35,7 +35,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Combine and Clean the Data
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| The two DataFrames have been combined on the rows using an inner join and the index has been reset. | | ![Screenshot 2024-06-10 at 6 38 41 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/f128b5c2-8651-4915-a9b5-e45bbb5313f0) |
+| The two DataFrames have been combined on the rows using an inner join and the index has been reset. | ![Screenshot 2024-06-17 at 10 45 21 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/55cc4194-762c-4cbd-b84a-4f95b130eb9f) | ![Screenshot 2024-06-10 at 6 38 41 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/f128b5c2-8651-4915-a9b5-e45bbb5313f0) |
 | The "invoice_date" column has been converted to a datetime data type. | | ![Screenshot 2024-06-10 at 6 40 00 PM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/88b8097c-ed36-4bb3-abed-a68a382c5e47) |
 
 ### Determine which Region Sold the Most Products

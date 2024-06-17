@@ -62,8 +62,8 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 ### Determine which Retailer Sold the Most Women's Athletic Footwear
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
-| A filtered DataFrame is created that shows only women's athletic footwear sales data. (8 points) | | ![Screenshot 2024-06-17 at 11 07 09 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/17b69108-8bb8-46b2-b64d-d97ffc18baa5) ![Screenshot 2024-06-17 at 11 07 18 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/e97844ae-ab3c-46ff-8be4-5777c89fbf09) |
-| A `groupby` or `pivot_table function` has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | | |
+| A filtered DataFrame is created that shows only women's athletic footwear sales data. (8 points) | | |
+| A `groupby` or `pivot_table function` has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | | ![Screenshot 2024-06-17 at 11 07 09 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/17b69108-8bb8-46b2-b64d-d97ffc18baa5) ![Screenshot 2024-06-17 at 11 07 18 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/e97844ae-ab3c-46ff-8be4-5777c89fbf09) |
 | The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
 | The results are sorted in descending order to show the top five retailers along with their region, state, and city that had the most women's athletic footwear sales. | Same as/See above. | Same as/See above. |
 

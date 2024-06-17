@@ -49,23 +49,23 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "region", "state", and "city" columns. | | |
-| The aggregated column has been renamed to reflect the aggregation of the data in the column. | | |
-| The results are sorted in descending order to show the top five regions, including the state and city that generated the most sales. | | |
+| The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
+| The results are sorted in descending order to show the top five regions, including the state and city that generated the most sales. | Same as/See above. | Same as/See above. |
 
 ### Determine which Retailer had the Most Sales
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | | |
-| The aggregated column has been renamed to reflect the aggregation of the data in the column. | | |
-| The results are sorted in descending order to show the top five retailers along with their region, state, and city that generated the most sales. | | |
+| The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
+| The results are sorted in descending order to show the top five retailers along with their region, state, and city that generated the most sales. | Same as/See above. | Same as/See above. |
 
 ### Determine which Retailer Sold the Most Women's Athletic Footwear
 | Requirement | My Results | Required Results |
 | ----------- | ---------- | ---------------- |
 | A filtered DataFrame is created that shows only women's athletic footwear sales data. (8 points) | | |
 | A `groupby` or `pivot_table function` has been used to create a multi-index DataFrame with the "retailer", "region", "state", and "city" columns. | | |
-| The aggregated column has been renamed to reflect the aggregation of the data in the column. | | |
-| The results are sorted in descending order to show the top five retailers along with their region, state, and city that had the most women's athletic footwear sales. | | |
+| The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
+| The results are sorted in descending order to show the top five retailers along with their region, state, and city that had the most women's athletic footwear sales. | Same as/See above. | Same as/See above. |
 
 ### Determine the Day with the Most Women's Athletic Footwear Sales
 | Requirement | My Results | Required Results |

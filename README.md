@@ -43,7 +43,7 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 | ----------- | ---------- | ---------------- |
 | A `groupby` or `pivot_table` function has been used to create a multi-index DataFrame with the "region", "state", and "city" columns. | ![Screenshot 2024-06-17 at 10 55 41 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/fc07a685-744d-4ccf-8946-16427f56b4d2) ![Screenshot 2024-06-17 at 10 55 49 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/a02aa665-d5fd-49dc-899a-43ef2094a7fa) | ![Screenshot 2024-06-17 at 10 52 08 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/32fe52a4-a20c-46da-8d21-df2a661e2dea) ![Screenshot 2024-06-17 at 10 52 40 AM](https://github.com/brian-campbell/athletic_sales_analysis/assets/798207/80566a73-d5ab-4a1d-a5c8-4588ccac9545) |
 | The aggregated column has been renamed to reflect the aggregation of the data in the column. | Same as/See above. | Same as/See above. |
-| The results are sorted in descending order to show the top five regions, including the state and city that sold the most products. | | |
+| The results are sorted in descending order to show the top five regions, including the state and city that sold the most products. | Same as/See above. | Same as/See above. |
 
 ### Determine which Region had the Most Sales
 | Requirement | My Results | Required Results |
